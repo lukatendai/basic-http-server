@@ -3,4 +3,4 @@ go:
  - release
 
 script:
- - go build linux darwin
+ - go test -v
